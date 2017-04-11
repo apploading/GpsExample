@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GpsExample</string>
+    <string name="my_location">My Location</string>
+</resources>
